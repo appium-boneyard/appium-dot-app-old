@@ -1,6 +1,8 @@
 An OS X GUI for Appium
 =======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/appium/appium-dot-app-old.svg)](https://greenkeeper.io/)
+
 To build:
 
     $ ./build.sh 
